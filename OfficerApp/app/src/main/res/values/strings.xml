@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Officer App</string>
+
+    <string name="label_user_id">Enter User Id</string>
+    <string name="label_password">Password</string>
+    <string name="label_login">Login</string>
+
 </resources>

@@ -3,4 +3,17 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+
+    <color name="colorHighlight">#3d97df</color>
+    <color name="colorLightBlue">#FFDDEEF4</color>
+    <color name="colorDarkBlue">#FFA9D6EB</color>
+    <color name="colorTextSecondary">#FFB4B4B4</color>
+    <color name="colorTextHeading">#FF666666</color>
+    <color name="colorStatusComplete">#36CA3A</color>
+    <color name="colorTextViewHeadingBg">#DEDEDE</color>
+    <color name="colo_resend_otp">#f46969</color>
+    <color name="colorStatusInProgress">#FF8C00</color>
+
+
 </resources>
